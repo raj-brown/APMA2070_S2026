@@ -1,0 +1,21 @@
+
+% Clear all the variables
+clc; % clear screen
+clear all; %clear all previously loaded variables
+%Create an array
+a = [1 2 3 4];
+% create 4 x 4 Matrix; 
+% ; symbol also offers the concatenation pf arrays vertically
+a = [10 13 15 14; 1 54 4 7; 8 19 10 11; 5 4 8 9];
+
+% This also a way to define Matrix
+a = [10 13 15 14
+    1 54 4 7 
+    8 19 10 11
+    5 4 8 9];
+
+% print shape of A
+size(a)
+% Defining variables and formatted printing
+x = 5;
+fprintf('The value of x is: %5.8f\n', x);
