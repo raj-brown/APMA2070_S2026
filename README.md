@@ -91,7 +91,7 @@ Every Friday: 3:00 PM – 5:30 PM
 Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906  
 
 ---
-
+<!--
 ## 📝 Syllabus, Lectures & Codes
 
 **Module I: Basics**  
@@ -132,7 +132,7 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 
 [Example Project Presentation](Example_Project_PPT/example_ppt_final_project.pdf)  
 [Project List](Project_list.pdf)
-
+-->
 <!--
 # APMA-2070: Deep Learning for Scientistis and Engineers: Spring 2026
 
