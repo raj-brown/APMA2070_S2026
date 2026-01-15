@@ -1,5 +1,139 @@
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1581091215369-06d9d8f30dc2?fit=crop&w=1200&q=80" width="100%">
+</p>
 
+# 𝐀𝐏𝐌𝐀-2070: Deep Learning for Scientists and Engineers – Spring 2026
 
+![Course Badge](https://img.shields.io/badge/Course-APMA2070-blue?style=for-the-badge&logo=python)
+![Status](https://img.shields.io/badge/Progress-In_Progress-orange?style=for-the-badge)
+![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge)
+
+---
+
+## 📘 Course Overview
+
+The main objective of this course is to teach concepts and implementation of deep learning techniques for scientific and engineering problems to first-year graduate students. This course covers theory and implementation of deep learning techniques applied to:
+
+- Solid mechanics  
+- Fluid mechanics  
+- Non-destructive evaluation of materials  
+- Systems biology  
+- Chemistry  
+- Non-linear dynamics  
+
+---
+
+## ⏱ Workload
+
+Over 13 weeks (including reading period):  
+
+- 3 hours in class per week → 39 hours total  
+- Total estimated workload → 180 hours  
+- Project-based homework → ~60 hours  
+- Final project → ~80 hours  
+
+---
+
+## 🎯 Why This Course
+
+Follow top ML experts for inspiration:  
+
+[Top 10 People in ML to Follow in 2023](https://academy.digilab.co.uk/posts/which-ml-experts-should-you-follow-in-2023)
+
+---
+
+## 👩‍🏫 Instructors
+
+**[Prof. George Em Karniadakis](https://scholar.google.com/citations?user=XMWXf8sAAAAJ&hl=en&oi=ao)**  
+- Friday: 3:00 PM – 5:30 PM  
+- Room 304, Division of Applied Mathematics, 170 Hope St, Providence RI 02906  
+- Email: <george_karniadakis@brown.edu>  
+
+**[Dr. Khemraj Shukla](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en)**  
+- Friday: 3:00 PM – 5:30 PM  
+- Room 308, Division of Applied Mathematics, 170 Hope St, Providence RI 02906  
+- Email: <khemraj_shukla@brown.edu>  
+
+---
+
+## 🧑‍💻 TAs
+
+**Qile Jiang**  
+- Email: <qile_jiang@brown.edu>  
+
+---
+
+## 📚 Textbooks & References
+
+![Deep Learning Book](https://img.shields.io/badge/Book-Deep_Learning-blue?style=for-the-badge)
+![Hands-on ML](https://img.shields.io/badge/Book-Hands-on_ML-orange?style=for-the-badge)
+![Conceptual Python](https://img.shields.io/badge/Book-Conceptual_Python-green?style=for-the-badge)
+![Bayesian Stats](https://img.shields.io/badge/Book-Bayesian_Stats-purple?style=for-the-badge)
+![Reinforcement Learning](https://img.shields.io/badge/Book-RL-yellow?style=for-the-badge)
+
+- [Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://www.deeplearningbook.org)  
+- [Hands-on Machine Learning – Aurélien Géron](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)  
+- [Conceptual Programming with Python – Altenkirch & Triguero](https://www.google.com/books/edition/Conceptual_Programming_with_Python/nUO0DwAAQBAJ?hl=en&gbpv=1&dq=conceptual+programming+with+python&printsec=frontcover)  
+- [A Student's Guide to Bayesian Statistics – B Lambert](https://www.torrossa.com/en/resources/an/5017731)  
+- [Reinforcement Learning: An Introduction – Sutton & Barto](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=6m4wv6gAAAAJ&citation_for_view=6m4wv6gAAAAJ:IWHjjKOFINEC)
+
+---
+
+## 📈 Learning Curve
+
+![Learning curve](images/learning_curve.png?raw=true "Title") 
+
+---
+
+## ⏰ Office Hours
+
+Every Friday: 3:00 PM – 5:30 PM  
+Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906  
+
+---
+
+## 📝 Syllabus, Lectures & Codes
+
+**Module I: Basics**  
+- Lecture 1–6: [Slides](https://www.dropbox.com/scl/fi/zjc8fx44mb6z78a67kiw8/Lecture_01_Introduction.pptx?rlkey=b8kkgall360i9taaide0jbf6z&st=hd5pjyzb&dl=0), [Jupyter Notebooks](https://github.com/raj-brown/APMA2070_S2025)  
+
+**Module II: Neural Differential Equations**  
+- Lecture 7–9: Physics-informed neural networks, distillation, discovering differential equations  
+
+**Module III: Neural Operators**  
+- Lecture 10–11: DeepONet, PINNs implementation  
+
+**Module IV: SciML Uncertainty Quantification**  
+- Lecture 12–13: Multi-fidelity ML, uncertainty quantification  
+
+**Advanced Topics**  
+- Multi-GPU Scientific Machine Learning: [Slides & Code](Advanced_Topics)  
+
+---
+
+## 📂 Term Projects
+
+**1. Biomedicine**  
+- [Blood coagulation modeling](https://www.dropbox.com/sh/n866zxh8cxdsqz1/AADBYT_5-xS8x94RDutOJ4Xza?dl=0)  
+- [Drug absorption with PINNs](https://www.dropbox.com/sh/acdj0nb91zg4vzr/AADHQoabk7SrwM7aP5wuESywa?dl=0)  
+- [Glucose-Insulin interaction](https://www.dropbox.com/sh/3dqxhlir7ij3k0p/AAAwzDKlUJQqb8BF5rePsmpwa?dl=0)  
+- [Thrombus formation](https://www.dropbox.com/sh/a5albb9toxl79cn/AAAxkUHoq1ZCin2KDKVEXDS2a?dl=0)  
+
+**2. Dynamical Systems**  
+- [Charged particle in EM field](https://www.dropbox.com/sh/dktv3s13hu5lop4/AAAFgsb50_Ks0zxELoC3_7Hua?dl=0)  
+- [Learning dynamical systems from data](https://www.dropbox.com/sh/1ivo7t8uujh9zej/AADAEeF6SBeYQLt22cBF0ITXa?dl=0)  
+
+**3. Engine Dynamics, 4. Fluid Mechanics, 5. Geophysics, 6. Heat Transfer, 7. Materials**  
+- See individual [project files](Project_list.pdf) for full links  
+
+---
+
+## 📊 Project Presentation Template
+
+[Example Project Presentation](Example_Project_PPT/example_ppt_final_project.pdf)  
+[Project List](Project_list.pdf)
+
+<!--
 # APMA-2070: Deep Learning for Scientistis and Engineers: Spring 2026
 
 The main objective of this course is to teach concepts and implementation of deep learning techniques for scientific and engineering problems to first year graduate students. This course entails various methods, including theory and implementation of deep leaning techniques to solve a broad range of computational problems frequently encountered in solid mechanics, fluid mechanics, non destructive evaluation of materials, systems biology, chemistry, and non-linear dynamics.
@@ -70,7 +204,7 @@ Room No: 118
 1st Floor, Division of Applied Mathematics   
 170 Hope St   
 Providence RI 02906   
-
+-->
 <!--
 ## Module I: Basics 
 
