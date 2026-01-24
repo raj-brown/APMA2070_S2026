@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/raj-brown/APMA2070_S2026/blob/main/images/learning_curve.png0" width="100%">
+  <img src="https://github.com/raj-brown/APMA2070_S2026/blob/main/images/learning_curve.png" width="100%">
 </p>
 
 # 𝐀𝐏𝐌𝐀-2070: Deep Learning for Scientists and Engineers – Spring 2026
