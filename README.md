@@ -91,26 +91,11 @@ Every Friday: 3:00 PM – 5:30 PM
 Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906  
 
 ---
-<!--
 ## 📝 Syllabus, Lectures & Codes
+**Lecture 1 : Introduction** [Slides: (Jan 26, 2026)](https://www.dropbox.com/scl/fi/fr54ti7g8ch2cyl90qofb/Lecture_01_Introduction.pptx?rlkey=2pgf9780ofv4r85rnqlln6gfp&dl=0)  
+[Homework\_1](Homeworks/HW\_01.pdf) Due Date: 2/02/2026, 11:59 PM ET
 
-**Module I: Basics**  
-- Lecture 1–6: [Slides](https://www.dropbox.com/scl/fi/zjc8fx44mb6z78a67kiw8/Lecture_01_Introduction.pptx?rlkey=b8kkgall360i9taaide0jbf6z&st=hd5pjyzb&dl=0), [Jupyter Notebooks](https://github.com/raj-brown/APMA2070_S2025)  
-
-**Module II: Neural Differential Equations**  
-- Lecture 7–9: Physics-informed neural networks, distillation, discovering differential equations  
-
-**Module III: Neural Operators**  
-- Lecture 10–11: DeepONet, PINNs implementation  
-
-**Module IV: SciML Uncertainty Quantification**  
-- Lecture 12–13: Multi-fidelity ML, uncertainty quantification  
-
-**Advanced Topics**  
-- Multi-GPU Scientific Machine Learning: [Slides & Code](Advanced_Topics)  
-
----
-
+<!--
 ## 📂 Term Projects
 
 **1. Biomedicine**  
@@ -126,91 +111,14 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 **3. Engine Dynamics, 4. Fluid Mechanics, 5. Geophysics, 6. Heat Transfer, 7. Materials**  
 - See individual [project files](Project_list.pdf) for full links  
 
----
+-
 
 ## 📊 Project Presentation Template
 
 [Example Project Presentation](Example_Project_PPT/example_ppt_final_project.pdf)  
 [Project List](Project_list.pdf)
--->
-<!--
-# APMA-2070: Deep Learning for Scientistis and Engineers: Spring 2026
 
-The main objective of this course is to teach concepts and implementation of deep learning techniques for scientific and engineering problems to first year graduate students. This course entails various methods, including theory and implementation of deep leaning techniques to solve a broad range of computational problems frequently encountered in solid mechanics, fluid mechanics, non destructive evaluation of materials, systems biology, chemistry, and non-linear dynamics.
-
-
-# Workload
-
-#### Over the 13 weeks of this course (including reading period), students will spend three hours in class per week (39 hours total). A reasonable estimate to support this course’s learning outcomes is 180 hours total. Project based homework assignments may take ~60 hours, and students are expected to allocate ~80 hours to the final project.
-
-
-# Why this course
-Please read through this  
-* [<span style="color:blue"> <em>Top 10 People in ML to follow in 2023 </em> </span>](https://academy.digilab.co.uk/posts/which-ml-experts-should-you-follow-in-2023)
-
-
-
-# Instructors  
-
-[Prof. George Em Karniadakis, Division of Applied Mathematics, Brown University](https://scholar.google.com/citations?user=XMWXf8sAAAAJ&hl=en&oi=ao)
-
-[Dr. Khemraj Shukla, Division of Applied Mathematics, Brown University](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en)
-
-
-Prof. George Em Karniadakis: Friday: 3.00 PM - 5.30 PM  
-Room No: 304    
-Division of Applied Mathematics     
-170 Hope St  
-Providence RI 02906   
-Email: <george_karniadakis@brown.edu>    
-
-Dr. Khemraj Shukla: Friday: 3.00 PM - 5.30 PM  
-Room No: 308    
-Division of Applied Mathematics     
-170 Hope St  
-Providence RI 02906   
-Email: <khemraj_shukla@brown.edu>    
-
-# TAs
-Qile Jiang  
-Email: <qile_jiang@brown.edu>  
-
-## 
-
-
-# Syllabus, Lectures and Codes 
-
-
-**Textbook and Other Reading Materials** 
-
-* [<span style="color:blue"> <em>Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville </em> </span>](https://www.deeplearningbook.org)
-
-* [<span style="color:blue"> <em>Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow by Auréliean Géron</em> </span>](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
-
-* [<span style="color:blue"> <em>Conceptual Programming with Python by Thorsten Altenkirch and Isaac Triguero</em> </span>](https://www.google.com/books/edition/Conceptual_Programming_with_Python/nUO0DwAAQBAJ?hl=en&gbpv=1&dq=conceptual+programming+with+python&printsec=frontcover)
-
-* [<span style="color:blue"> <em>A Student's Guide to Bayesian Statistics by B Lambert  </em> </span>](https://www.torrossa.com/en/resources/an/5017731)
-
-* [<span style="color:blue"> <em>Reinforcement learning: An Introduction, 2nd edition by Richard S Sutton and Andrew G Barto</em> </span>](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=6m4wv6gAAAAJ&citation_for_view=6m4wv6gAAAAJ:IWHjjKOFINEC)
-
-
-**Learning curve**
-![Learning curve](images/learning_curve.png?raw=true "Title") 
-
-
-## Office Hours
-Every Friday: 3:00 PM - 5.30 PM   
-Room No: 118  
-1st Floor, Division of Applied Mathematics   
-170 Hope St   
-Providence RI 02906   
--->
-<!--
 ## Module I: Basics 
-
-**Lecture 1 : Introduction** [Slides: (Jan 27,2025)](https://www.dropbox.com/scl/fi/zjc8fx44mb6z78a67kiw8/Lecture_01_Introduction.pptx?rlkey=b8kkgall360i9taaide0jbf6z&st=hd5pjyzb&dl=0)  
-[Homework\_L1](Homeworks/HW\_L1.pdf) Due Date: 2/10/2025, 11:59 PM ET
-
 
 **Lecture 2 : A primer on Python, NumPy, SciPy, jupyter notebooks and MATLAB** [Slides: (Feb 3, 2025)](https://www.dropbox.com/scl/fi/xafih1gn97ggfdao1nt6c/Lecture_02_Primer_Python_Final.pptx?rlkey=ms1j3gkiu14vmx8re6zzckvq0&st=8mtthpiz&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070_S2025/blob/main/Lecture_2_Notebook/Python_Codes/python_primer.ipynb) [MATLAB_Codes](https://github.com/raj-brown/APMA2070_S2025/blob/main/Lecture_2_Notebook/MATLAB_Codes/poisson_pde_fem.m)  
 [Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/24/2025, 11:59 PM ET

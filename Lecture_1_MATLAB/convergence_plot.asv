@@ -1,0 +1,64 @@
+%% 5-point stencil convergence for 2D Poisson
+clear; clc; close all;
+
+%% List of grid resolutions
+N_list = [16, 32, 64, 128, 256];
+rel_L2_errors = zeros(size(N_list));
+
+%% Loop over grid resolutions
+for k = 1:length(N_list)
+    N = N_list(k);
+    rel_L2_errors(k) = convergence_l2(N);
+    fprintf('N = %d, Relative L2 Error = %.3e\n', N, rel_L2_errors(k));
+end
+
+%% Plot convergence
+figure;
+loglog(N_list, rel_L2_errors, 'o-', 'LineWidth', 2, 'MarkerSize', 8);
+grid on;
+xlabel('N (interior points)');
+ylabel('Relative L2 Error');
+title('Convergence of 5-point stencil for 2D Poisson');
+
+%% ================= Local Function ===================
+function rel_L2 = convergence_l2(N)
+
+    %% Parameters
+    Nx = N; Ny = N;
+    hx = 1/(Nx+1); hy = 1/(Ny+1);
+
+    % Interior grid points
+    x = (1:Nx)*hx; y = (1:Ny)*hy;
+    [X,Y] = meshgrid(x,y);
+
+    %% Exact solution and RHS (Poisson: -Δu = f)
+    u_exact = sin(pi*X).*sin(pi*Y);
+    f = 2*pi^2 * sin(pi*X).*sin(pi*Y);   % Note: -Δu = f
+
+    %% Build 1D second derivative matrices
+    ex = ones(Nx,1); ey = ones(Ny,1);
+    Tx = spdiags([ex -2*ex ex], [-1 0 1], Nx, Nx) / hx^2;
+    Ty = spdiags([ey -2*ey ey], [-1 0 1], Ny, Ny) / hy^2;
+    Ix = speye(Nx); Iy = speye(Ny);
+
+    %% 2D Laplacian
+    A = kron(Iy, Tx) + kron(Ty, Ix);
+
+    %% Solve linear system
+    u_interior = A\f(:);
+
+    %% Expand to full grid including boundary
+    u_full = zeros(Ny+2, Nx+2);
+    u_full(2:end-1,2:end-1) = reshape(u_interior, Ny, Nx);
+
+    %% Full grid including boundaries
+    x_full = 0:hx:1; y_full = 0:hy:1;
+    [X_full,Y_full] = meshgrid(x_full, y_full);
+    u_exact_full = sin(pi*X_full).*sin(pi*Y_full);
+
+    %% Compute relative L2 error
+    error_abs_l2 = sqrt(sum(sum((u_full - u_exact_full).^2)) * hx * hy);
+    norm_exact_l2 = sqrt(sum(sum(u_exact_full.^2)) * hx * hy);
+    rel_L2 = error_abs_l2 / norm_exact_l2;
+
+end
