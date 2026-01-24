@@ -27,7 +27,7 @@ axis equal;
 axis([0 1 0 1]);
 xlabel('x');
 ylabel('y');
-title('Grids: [16, 16] ');
+title('Grids: [32, 32] ');
 
 legend('Interior points', 'Boundary points', 'Location', 'best');
 set(gca, 'FontSize', 12);
