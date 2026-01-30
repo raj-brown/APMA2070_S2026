@@ -90,12 +90,12 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 ---
 ## 📝 Syllabus, Lectures & Codes
 **Lecture 1 : Introduction** [Slides: (Jan 26, 2026)](https://www.dropbox.com/scl/fi/fr54ti7g8ch2cyl90qofb/Lecture_01_Introduction.pptx?rlkey=2pgf9780ofv4r85rnqlln6gfp&dl=0)  
-[Homework\_1](Homeworks/HW\_01.pdf) Due Date: 2/02/2026, 11:59 PM ET
+[Homework\_1](Homeworks/HW_01.pdf) Due Date: 2/10/2026, 11:59 PM ET
 
 **Lecture 2 : A primer on Python, NumPy, SciPy, jupyter notebooks and MATLAB** [Slides: (Jan 26, 2026)](https://www.dropbox.com/scl/fi/wn5rd4p3flcjqc5hj0kan/Lecture_02_Primer_Python_MATLAB.pptx?rlkey=96pa3d09gfu5i4q7ytgvusrhy&st=utbsgjtq&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_2_Notebook/Python_Codes/python_primer.ipynb) [MATLAB_Codes](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_2_Notebook/MATLAB_Codes/poisson_pde_fem.m)  
-[Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/24/2026, 11:59 PM ET
 
 <!--
+[Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/24/2026, 11:59 PM ET
 ## 📂 Term Projects
 
 **1. Biomedicine**  
