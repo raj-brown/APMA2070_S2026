@@ -89,15 +89,21 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 
 ---
 ## 📝 Syllabus, Lectures & Codes
-**Lecture 1 : Introduction** [Slides: (Jan 26, 2026)](https://www.dropbox.com/scl/fi/fr54ti7g8ch2cyl90qofb/Lecture_01_Introduction.pptx?rlkey=2pgf9780ofv4r85rnqlln6gfp&dl=0)  
+**Lecture 1 : Introduction** [Slides: (Jan 30, 2026)](https://www.dropbox.com/scl/fi/fr54ti7g8ch2cyl90qofb/Lecture_01_Introduction.pptx?rlkey=2pgf9780ofv4r85rnqlln6gfp&dl=0)  
 [Homework\_1](Homeworks/HW_01.pdf) Due Date: 2/10/2026, 11:59 PM ET
 
-**Lecture 2 : A primer on Python, NumPy, SciPy, jupyter notebooks and MATLAB** [Slides: (Jan 26, 2026)](https://www.dropbox.com/scl/fi/wn5rd4p3flcjqc5hj0kan/Lecture_02_Primer_Python_MATLAB.pptx?rlkey=96pa3d09gfu5i4q7ytgvusrhy&st=utbsgjtq&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_2_Notebook/Python_Codes/python_primer.ipynb) [MATLAB_Codes](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_2_Notebook/MATLAB_Codes/poisson_pde_fem.m)  
-
+**Lecture 2 : A primer on Python, NumPy, SciPy, jupyter notebooks and MATLAB** [Slides: (Jan 30, 2026)](https://www.dropbox.com/scl/fi/wn5rd4p3flcjqc5hj0kan/Lecture_02_Primer_Python_MATLAB.pptx?rlkey=96pa3d09gfu5i4q7ytgvusrhy&st=utbsgjtq&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_2_Notebook/Python_Codes/python_primer.ipynb) [MATLAB_Codes](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_2_Notebook/MATLAB_Codes/poisson_pde_fem.m)  
 <!--
 [Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/24/2026, 11:59 PM ET
 ## 📂 Term Projects
+-->
+**Lecture 3: Deep Learning Networks** [Slides: (Feb 2, Feb 9, 2025)](https://www.dropbox.com/scl/fi/7dhmjgfuku3bd0n01kcc9/Lecture_03_Deep_Neural_Networks-GK.pptx?rlkey=qobc3askxa1mps2apoelw72uq&st=yhe44rul&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_3_Notebook/Python_Code/lec_03.ipynb) [MATLAB_Codes](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_3_Notebook/MATLAB_CODES/driver.m)
 
+<!--
+[Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/10/2025, 11:59 PM ET
+-->
+
+<!--
 **1. Biomedicine**  
 - [Blood coagulation modeling](https://www.dropbox.com/sh/n866zxh8cxdsqz1/AADBYT_5-xS8x94RDutOJ4Xza?dl=0)  
 - [Drug absorption with PINNs](https://www.dropbox.com/sh/acdj0nb91zg4vzr/AADHQoabk7SrwM7aP5wuESywa?dl=0)  
