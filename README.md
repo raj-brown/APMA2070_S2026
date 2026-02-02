@@ -97,7 +97,7 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 [Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/24/2026, 11:59 PM ET
 ## 📂 Term Projects
 -->
-**Lecture 3: Deep Learning Networks** [Slides: (Feb 2, Feb 9, 2025)](https://www.dropbox.com/scl/fi/7dhmjgfuku3bd0n01kcc9/Lecture_03_Deep_Neural_Networks-GK.pptx?rlkey=qobc3askxa1mps2apoelw72uq&st=yhe44rul&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_3_Notebook/Python_Code/lec_03.ipynb) [MATLAB_Codes](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_3_Notebook/MATLAB_CODES/driver.m)
+**Lecture 3: Deep Learning Networks** [Slides: (Feb 2, Feb 9, 2026)](https://www.dropbox.com/scl/fi/7dhmjgfuku3bd0n01kcc9/Lecture_03_Deep_Neural_Networks-GK.pptx?rlkey=qobc3askxa1mps2apoelw72uq&st=yhe44rul&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_3_Notebook/Python_Code/lec_03.ipynb) [MATLAB_Codes](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_3_Notebook/MATLAB_CODES/driver.m)
 
 <!--
 [Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/10/2025, 11:59 PM ET
