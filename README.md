@@ -93,7 +93,7 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 [Homework\_1](Homeworks/HW_01.pdf) Due Date: 2/17/2026, 11:59 PM ET
 
 **Lecture 2 : A primer on Python, NumPy, SciPy, jupyter notebooks and MATLAB** [Slides: (Jan 30, 2026)](https://www.dropbox.com/scl/fi/wn5rd4p3flcjqc5hj0kan/Lecture_02_Primer_Python_MATLAB.pptx?rlkey=96pa3d09gfu5i4q7ytgvusrhy&st=utbsgjtq&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_2_Notebook/Python_Codes/python_primer.ipynb) [MATLAB_Codes](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_2_Notebook/MATLAB_Codes/poisson_pde_fem.m)  
-[Homework\_2](Homeworks/HW\_2.pdf) Due Date: 02/28/2026, 11:59 PM ET
+[Homework\_2](Homeworks/HW\_02.pdf) Due Date: 02/28/2026, 11:59 PM ET
 
 **Lecture 3: Deep Learning Networks** [Slides: (Feb 2, Feb 9, 2026)](https://www.dropbox.com/scl/fi/7dhmjgfuku3bd0n01kcc9/Lecture_03_Deep_Neural_Networks.pptx?rlkey=8409wfqzioi3czr6hm9td75sz&st=is9k9dgt&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_3_Notebook/Python_Code/lec_03.ipynb) [MATLAB_Codes](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_3_Notebook/MATLAB_CODES/driver.m)
 
