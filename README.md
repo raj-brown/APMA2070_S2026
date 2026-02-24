@@ -96,6 +96,7 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 [Homework\_2](Homeworks/HW\_02.pdf) Due Date: 02/28/2026, 11:59 PM ET
 
 **Lecture 3: Deep Learning Networks** [Slides: (Feb 2, Feb 9, 2026)](https://www.dropbox.com/scl/fi/7dhmjgfuku3bd0n01kcc9/Lecture_03_Deep_Neural_Networks.pptx?rlkey=8409wfqzioi3czr6hm9td75sz&st=is9k9dgt&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_3_Notebook/Python_Code/lec_03.ipynb) [MATLAB_Codes](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_3_Notebook/MATLAB_CODES/driver.m)
+[Homework\_3](Homeworks/HW\_03.pdf) Due Date: 03/14/2026, 11:59 PM ET
 
 **Lecture 4: A primer on TensorFlow, PyTorch, JAX and MATLAB** [Slides: (Feb 9, Feb 16, 2026)](https://www.dropbox.com/scl/fi/fqqt6s40p5c4l0nq7b0vg/Lecture_04_Primer_PyT_TF_JAX.pptx?rlkey=nh73obwekkxlio6fjbvu93gth&st=0taynhm7&dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/Python_Codes/1-pytorch.ipynb) [MATLAB_Codes](Lecture_4_Notebook/MATLAB_Codes/matlabDLbasic.m)  
 
