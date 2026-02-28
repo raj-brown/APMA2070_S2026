@@ -100,15 +100,12 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 
 **Lecture 4: A primer on TensorFlow, PyTorch, JAX and MATLAB** [Slides: (Feb 9, Feb 16, 2026)](https://www.dropbox.com/scl/fi/fqqt6s40p5c4l0nq7b0vg/Lecture_04_Primer_PyT_TF_JAX.pptx?rlkey=nh73obwekkxlio6fjbvu93gth&st=0taynhm7&dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/Python_Codes/1-pytorch.ipynb) [MATLAB_Codes](Lecture_4_Notebook/MATLAB_Codes/matlabDLbasic.m)  
 
+**Lecture 5: Training and Optimization** [Slides: (March 2, 2026)](https://www.dropbox.com/scl/fi/mb60xg04g1xp0zi6zhzrk/Lecture_05_Training_and_Optimization_GK.pptx?rlkey=9mgt3746b2cjk6evkc9eao19o&st=7vdm6nm8&dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/Python_Codes/optimizer_00.ipynb)  
 <!--
-[Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 03/24/2025, 11:59 PM ET
+[Homework\_L5](Homeworks/HW\_L5.pdf) [STARTING\_CODE](Homeworks/HW\_5\_CODE)  Due Date: 4/07/2025, 11:59 PM ET
 -->
 
 
-
-<!--
-[Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/10/2025, 11:59 PM ET
--->
 
 <!--
 **1. Biomedicine**  
@@ -144,8 +141,6 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 [Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 03/24/2025, 11:59 PM ET
 
 
-**Lecture 5: Training and Optimization** [Slides: (March 3, 2025)](https://www.dropbox.com/scl/fi/ftcfkxn4htyd9j9t10vxk/Lecture_05_Training_and_Optimization.pptx?rlkey=tlvjo3m5ljtbs6pewqaeyfu83&dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/Python_Codes/optimizer_00.ipynb)  
-[Homework\_L5](Homeworks/HW\_L5.pdf) [STARTING\_CODE](Homeworks/HW\_5\_CODE)  Due Date: 4/07/2025, 11:59 PM ET
 
 **Lecture 6: Neural Network Architectures** [Slides: (March 10, 2024)](https://www.dropbox.com/scl/fi/ysrirwvzphpxj2wn101sh/Lecture_06_NN_Architectures.pptx?rlkey=qebql65ntpk3iw08qex7so4wj&st=6hgskcjx&dl=0) [Jupyter\_Notebook](Lecture_6_Notebook/nn_architectures.ipynb)  
 [Homework\_L6](Homeworks/HW\_L6.pdf) Due Date: 4/28/2025, 11:59 PM ET
