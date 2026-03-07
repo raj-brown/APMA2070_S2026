@@ -106,6 +106,10 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 [Homework\_L5](Homeworks/HW\_L5.pdf) [STARTING\_CODE](Homeworks/HW\_5\_CODE)  Due Date: 4/07/2025, 11:59 PM ET
 -->
 
+**Lecture 6: Neural Network Architectures** [Slides: (March 9, 2026)](https://www.dropbox.com/scl/fi/nx6j0q1smrsugv3eieg30/Lecture_06_NN_Architectures.pptx?rlkey=n5bg2ls43xsrtuxt2jlu6tlyq&st=uc8a95i2&dl=0) [Jupyter\_Notebook](Lecture_6_Notebook/nn_architectures.ipynb)  
+<!--
+[Homework\_L6](Homeworks/HW\_L6.pdf) Due Date: 4/28/2025, 11:59 PM ET
+-->
 
 
 <!--
