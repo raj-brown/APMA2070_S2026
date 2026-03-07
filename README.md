@@ -99,6 +99,7 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 [Homework\_3](Homeworks/HW\_03.pdf) Due Date: 03/14/2026, 11:59 PM ET
 
 **Lecture 4: A primer on TensorFlow, PyTorch, JAX and MATLAB** [Slides: (Feb 9, Feb 16, 2026)](https://www.dropbox.com/scl/fi/fqqt6s40p5c4l0nq7b0vg/Lecture_04_Primer_PyT_TF_JAX.pptx?rlkey=nh73obwekkxlio6fjbvu93gth&st=0taynhm7&dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/Python_Codes/1-pytorch.ipynb) [MATLAB_Codes](Lecture_4_Notebook/MATLAB_Codes/matlabDLbasic.m)  
+[Homework\_4](Homeworks/HW\_04.pdf) Due Date: 03/28/2026, 11:59 PM ET
 
 **Lecture 5: Training and Optimization** [Slides: (March 2, 2026)](https://www.dropbox.com/scl/fi/mb60xg04g1xp0zi6zhzrk/Lecture_05_Training_and_Optimization_GK.pptx?rlkey=9mgt3746b2cjk6evkc9eao19o&st=7vdm6nm8&dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/Python_Codes/optimizer_00.ipynb)  
 <!--
