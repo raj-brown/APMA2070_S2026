@@ -150,17 +150,13 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 8. **Fractional Burgers Equation**
    * Fractional Nonlinear Burgers Equation and the Fractional Cole–Hopf Transform: [Project Files](https://www.dropbox.com/scl/fo/moy1x7004ivq58ytbxtc6/AKUmHX4veGiY5u0bARlaYRs?rlkey=r4gb1frsmpry9f2y8m47vwwad&dl=0)
 
-
-
-
-
-<!--
-
 ## 📊 Project Presentation Template
 
 [Example Project Presentation](Example_Project_PPT/example_ppt_final_project.pdf)  
 [Project List](Project_list.pdf)
 
+
+<!--
 ## Module I: Basics 
 
 **Lecture 2 : A primer on Python, NumPy, SciPy, jupyter notebooks and MATLAB** [Slides: (Feb 3, 2025)](https://www.dropbox.com/scl/fi/xafih1gn97ggfdao1nt6c/Lecture_02_Primer_Python_Final.pptx?rlkey=ms1j3gkiu14vmx8re6zzckvq0&st=8mtthpiz&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070_S2025/blob/main/Lecture_2_Notebook/Python_Codes/python_primer.ipynb) [MATLAB_Codes](https://github.com/raj-brown/APMA2070_S2025/blob/main/Lecture_2_Notebook/MATLAB_Codes/poisson_pde_fem.m)  
