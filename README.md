@@ -1,4 +1,4 @@
-
+>
 # 𝐀𝐏𝐌𝐀-2070: Deep Learning for Scientists and Engineers – Spring 2026
 
 ![Course Badge](https://img.shields.io/badge/Course-APMA2070-blue?style=for-the-badge&logo=python)
@@ -153,7 +153,7 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 ## 📊 Project Presentation Template
 
 [Example Project Presentation](Example_Project_PPT/example_ppt_final_project.pdf)  
-[Project List](Project_list.pdf)
+
 
 
 <!--
