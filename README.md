@@ -111,20 +111,13 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 [Homework\_L6](Homeworks/HW\_L6.pdf) Due Date: 4/28/2025, 11:59 PM ET
 -->
 
+1. **Biomedicine**
+   * Solving forward and inverse problems in mathematical modeling of blood coagulation: [Project Files](https://www.dropbox.com/scl/fo/m4eon16f8sr0ulp91zj07/AKlcXa0v358JGESYv03UGEI?rlkey=paabcq94viy14cb0smxz694he&dl=0))  
+   * Predicting drug absorption using a physics-informed neural network: [Project Files](https://www.dropbox.com/scl/fo/f6tf6bl2uguhwgkpymvv6/AMo5r-JoHmImVDy4sAm0v2U?rlkey=ctyon7d3fafbwfdi5vz82ai9j&dl=0)
+   * Parameter identification in Glucose-Insulin interaction: [Project Files](https://www.dropbox.com/scl/fo/sdhdzezpmus7tpmpn10uf/ADlT8XYsNfGVByBS2pS7Jtg?rlkey=1a9vihivtfjwee93ddgdyhfbp&dl=0)
+   * Parameter Estimation in Thrombus Formation: [Project Files](https://www.dropbox.com/scl/fo/t43ksipn3x4of8zecyzit/AIkEP5lgKC4C-3-AL-3JNgk?rlkey=nlb6b3n6adlxkvy0ojio0t1t5&dl=0)
 
 
-**1. Biomedicine**  
-- [Blood coagulation modeling](https://www.dropbox.com/scl/fo/m4eon16f8sr0ulp91zj07/AKlcXa0v358JGESYv03UGEI?rlkey=paabcq94viy14cb0smxz694he&dl=0)  
-- [Drug absorption with PINNs](https://www.dropbox.com/scl/fo/f6tf6bl2uguhwgkpymvv6/AMo5r-JoHmImVDy4sAm0v2U?rlkey=ctyon7d3fafbwfdi5vz82ai9j&dl=0)  
-- [Glucose-Insulin interaction](https://www.dropbox.com/scl/fo/sdhdzezpmus7tpmpn10uf/ADlT8XYsNfGVByBS2pS7Jtg?rlkey=1a9vihivtfjwee93ddgdyhfbp&dl=0)  
-- [Thrombus formation](https://www.dropbox.com/scl/fo/t43ksipn3x4of8zecyzit/AIkEP5lgKC4C-3-AL-3JNgk?rlkey=nlb6b3n6adlxkvy0ojio0t1t5&dl=0)  
-<!--
-**2. Dynamical Systems**  
-- [Charged particle in EM field](https://www.dropbox.com/sh/dktv3s13hu5lop4/AAAFgsb50_Ks0zxELoC3_7Hua?dl=0)  
-- [Learning dynamical systems from data](https://www.dropbox.com/sh/1ivo7t8uujh9zej/AADAEeF6SBeYQLt22cBF0ITXa?dl=0)  
-
-**3. Engine Dynamics, 4. Fluid Mechanics, 5. Geophysics, 6. Heat Transfer, 7. Materials**  
-- See individual [project files](Project_list.pdf) for full links  
 
 -
 
@@ -193,11 +186,6 @@ l=0)
 
 # Term Projects
 
-1. **Biomedicine**
-   * Solving forward and inverse problems in mathematical modeling of blood coagulation: [Project Files](https://www.dropbox.com/sh/n866zxh8cxdsqz1/AADBYT_5-xS8x94RDutOJ4Xza?dl=0)  
-   * Predicting drug absorption using a physics-informed neural network: [Project Files](https://www.dropbox.com/sh/acdj0nb91zg4vzr/AADHQoabk7SrwM7aP5wuESywa?dl=0)
-   * Parameter identification in Glucose-Insulin interaction: [Project Files](https://www.dropbox.com/sh/3dqxhlir7ij3k0p/AAAwzDKlUJQqb8BF5rePsmpwa?dl=0)
-   * Parameter Estimation in Thrombus Formation: [Project Files](https://www.dropbox.com/sh/a5albb9toxl79cn/AAAxkUHoq1ZCin2KDKVEXDS2a?dl=0)
 
 2. **Dynamical Systems**
    * Charged particle in a electromagnetic field: [Project Files](https://www.dropbox.com/sh/dktv3s13hu5lop4/AAAFgsb50_Ks0zxELoC3_7Hua?dl=0)
