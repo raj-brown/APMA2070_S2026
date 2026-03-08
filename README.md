@@ -110,6 +110,7 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 <!--
 [Homework\_L6](Homeworks/HW\_L6.pdf) Due Date: 4/28/2025, 11:59 PM ET
 -->
+# Term Projects
 
 1. **Biomedicine**
    * Solving forward and inverse problems in mathematical modeling of blood coagulation: [Project Files](https://www.dropbox.com/scl/fo/m4eon16f8sr0ulp91zj07/AKlcXa0v358JGESYv03UGEI?rlkey=paabcq94viy14cb0smxz694he&dl=0))  
@@ -119,7 +120,7 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 
 
 
--
+<!--
 
 ## 📊 Project Presentation Template
 
