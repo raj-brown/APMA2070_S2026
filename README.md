@@ -118,6 +118,40 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
    * Parameter identification in Glucose-Insulin interaction: [Project Files](https://www.dropbox.com/scl/fo/sdhdzezpmus7tpmpn10uf/ADlT8XYsNfGVByBS2pS7Jtg?rlkey=1a9vihivtfjwee93ddgdyhfbp&dl=0)
    * Parameter Estimation in Thrombus Formation: [Project Files](https://www.dropbox.com/scl/fo/t43ksipn3x4of8zecyzit/AIkEP5lgKC4C-3-AL-3JNgk?rlkey=nlb6b3n6adlxkvy0ojio0t1t5&dl=0)
 
+2. **Dynamical Systems**
+   * Charged particle in a electromagnetic field: [Project Files](https://www.dropbox.com/scl/fo/768famuj6vzzsf0uk00dh/AF2Jg0kKbFSx7liLLAj5mzg?rlkey=h3zghsza0z0c7v2mbahx1vwf2&dl=0)
+   * Learning dynamical systems from data: [Project Files](https://www.dropbox.com/scl/fo/yflz837mhs5rliacz5mp3/ABywSVm-WI6r24QK6QbzZyM?rlkey=yrgvksfrmieksgbd0fh1wzt4q&dl=0)
+
+3. **Engine Dynamics**
+   * Learning engine parameters: [Project Files](https://www.dropbox.com/scl/fo/mfwkqzad4x38kpwrfrklg/AHdtpXbIRoQsePTwpYaMTTI?rlkey=7g7fv100gx8h1y1gu845vl1ko&dl=0)
+
+4. **Fluid Mechanics**
+   * Compute and benchmark the solution of Boussinesq Equation using different activation functions: [Project Files](https://www.dropbox.com/scl/fo/cetbq87umomg7zvbfpm06/AO-RFEkaIorh-BHm7NiE4AY?rlkey=mgwignvu72pe64g1fgbfit1ph&dl=0)
+   * Modeling Bubble Growth Dynamics: [Project Files](https://www.dropbox.com/scl/fo/lkgz37w8i8ni2wl7z4l8r/AEOMunhsmfIcAYPX6UqPNKI?rlkey=eu1ncmklc5vd5ej2masgdeqth&dl=0)
+   * Reconstruction of flow past a cylinder: [Project Files](https://www.dropbox.com/scl/fo/4i3l1dpxmwew0e2quh93v/AJq_rZP9znJ8LVya9y627WU?rlkey=q0jh5mx9k54atj8ps2fnx7mdg&dl=0)
+   * Reconstruction of flow field for a lid driven cavity flow: [Project Files](https://www.dropbox.com/scl/fo/lhe1p5j8et5rv546ro9os/AOr1hxXc90TH9v0cKQMiMME?rlkey=xizz5yvaztxqmobg5mimmnqpb&dl=0)
+
+
+5. **Geophysics**
+   * Diffusion-Reaction in porous media: [Project Files](https://www.dropbox.com/scl/fo/dkp91ae1us8rdpcqnnmzt/AFAxp4Yi8e2Ry8-c3W1SLiE?rlkey=jnggl2s0qfthjqi5ox4hroxx5&dl=0)
+   * Estimating sea-surface temperature using multi-fidelity data: [Project Files](https://www.dropbox.com/scl/fo/jerpu9u7qdve59osm2c8v/AGS3nKPGdeHq_ozKOmwWuSU?rlkey=0ws4zm635083h11j30j2xnw0h&dl=0)
+   * Microseismic hypocenter localization using PINNs: [Project Files](https://www.dropbox.com/scl/fo/ax4uwoznym12c8u32p4ux/ANE3OwuY8jsSdp7_p16thB4?rlkey=cp6vut0vwek52unzl38kpxupv&dl=0)
+
+6. **Heat Transfer**
+   * Inverse heat transfer problem: [Project Files](https://www.dropbox.com/scl/fo/jmgcyl8afjcquklzow185/AA7iwpchF7Qmjl72XR4Uqs8?rlkey=03antkwdatbbkyw5uzr8cs5w6&dl=0)
+   * Steady state non-linear inverse heat conduction problem: [Project Files](https://www.dropbox.com/scl/fo/s28xdcyzdgjhhuk6imc18/AGKPQxLM_8zgisLXL5XsJGI?rlkey=yp6n6437s2uhju5qd6tl9v10h&dl=0)
+   * Heat Conduction in Double Layered Structures exposed to Ultra-short Pulsed Laser: [Project Files](https://www.dropbox.com/scl/fo/pjpu8mee7tge2jr3j685c/AHhVBNn2yvmvs-WpDCi4IYw?rlkey=d8mm6oid2qvoj6tolt6dy4xqb&dl=0)
+   * Benchmarking Finite-difference vs Automatic-Differetiation for steady-state PDEs: [Project Files](https://www.dropbox.com/scl/fo/k113db04k5qiw1lps5now/AKpI3Nm2gkl1r-LVzKDAcDM?rlkey=x6vbc2b3wj09kmxb7sfur3nqg&dl=0)
+
+7. **Materials**
+   * Inverse Problem on Modulus Identification of Hyperelastic Material: [Project Files](https://www.dropbox.com/scl/fo/f3vwxka6koyygily3fsoa/APk55zZ0X_xmZdN6oiLU6NA?rlkey=4tjqd89t3srw935kx1lulf9n8&dl=0)
+   * Characterizing surface breaking crack using ultrasound data and PINNs: [Project Files](https://www.dropbox.com/scl/fo/477e4hels0pqxmktzkpsh/ADklQ7I-vqb3SY37Pt9J6XM?rlkey=wsfsr3gtp13t4tsnsrkvgkgk9&dl=0)
+
+8. **Fractional Burgers Equation**
+   * Fractional Nonlinear Burgers Equation and the Fractional Cole–Hopf Transform: [Project Files](https://www.dropbox.com/scl/fo/moy1x7004ivq58ytbxtc6/AKUmHX4veGiY5u0bARlaYRs?rlkey=r4gb1frsmpry9f2y8m47vwwad&dl=0)
+
+
+
 
 
 <!--
@@ -188,33 +222,6 @@ l=0)
 # Term Projects
 
 
-2. **Dynamical Systems**
-   * Charged particle in a electromagnetic field: [Project Files](https://www.dropbox.com/sh/dktv3s13hu5lop4/AAAFgsb50_Ks0zxELoC3_7Hua?dl=0)
-   * Learning dynamical systems from data: [Project Files](https://www.dropbox.com/sh/1ivo7t8uujh9zej/AADAEeF6SBeYQLt22cBF0ITXa?dl=0)
 
-3. **Engine Dynamics**
-   * Learning engine parameters: [Project Files](https://www.dropbox.com/sh/83xcrd7ossiog7r/AAAKHISuKugG91CB7OOVSsnxa?dl=0)
-
-4. **Fluid Mechanics**
-   * Compute and benchmark the solution of Boussinesq Equation using different activation functions: [Project Files](https://www.dropbox.com/sh/x0vcr25ylpi8jok/AACvAl3f4rV5Iv6rspES14TTa?dl=0)
-   * Modeling Bubble Growth Dynamics: [Project Files](https://www.dropbox.com/sh/ep604br36ycsfih/AADbZ-5K4af-e1RRT2kEIRara?dl=0)
-   * Reconstruction of flow past a cylinder: [Project Files](https://www.dropbox.com/sh/qoxsadqlo8yevmd/AACXkzaG5ToalNAYveVaoTqLa?dl=0)
-   * Reconstruction of flow field for a lid driven cavity flow: [Project Files](https://www.dropbox.com/sh/if0auhruas9jnx9/AABEjNc6ynTCkjxJmHyDctR5a?dl=0)
-   * Solving forward and inverse problems in mathematical modeling of wave propagation: [Project Files](https://www.dropbox.com/sh/j9yiutzgsafg9ie/AACCi1bQKQoDMM5iU2sli6I1a?dl=0)
-
-5. **Geophysics**
-   * Diffusion-Reaction in porous media: [Project Files](https://www.dropbox.com/sh/wmibretvmz49c33/AAAZfNsirVYUSHeVHESGV7UQa?dl=0)
-   * Estimating sea-surface temperature using multi-fidelity data: [Project Files](https://www.dropbox.com/sh/2ny1m0jptxbw79s/AADy-rOr0RLJSRgKoRzEfkO4a?dl=0)
-   * Microseismic hypocenter localization using PINNs: [Project Files](https://www.dropbox.com/sh/9jqvrx0hwu10ngq/AADkrBAWwu-usIjSxlCQsdpOa?dl=0)
-
-6. **Heat Transfer**
-   * Inverse heat transfer problem: [Project Files](https://www.dropbox.com/sh/63t4hl3ifu5hqwh/AAA_FpV7iDTNaLP8rXXPtAMRa?dl=0)
-   * Steady state non-linear inverse heat conduction problem: [Project Files](https://www.dropbox.com/sh/mjkqntq6sdy0lzy/AAAWiG_xT4OMj5oIkOxVFPioa?dl=0)
-   * Heat Conduction in Double Layered Structures exposed to Ultra-short Pulsed Laser: [Project Files](https://www.dropbox.com/sh/8h1v6tqm04hysrg/AAASSR5kpA4Kd6ft4imwVRcPa?dl=0)
-   * Benchmarking Finite-difference vs Automatic-Differetiation for steady-state PDEs: [Project Files](https://www.dropbox.com/s/27etrkfjjbxvuy9/FDM_vs_AD.pdf?dl=0)
-
-7. **Materials**
-   * Inverse Problem on Modulus Identification of Hyperelastic Material: [Project Files](https://www.dropbox.com/sh/gzc7r9uokhf6qvp/AAAdcufJ9ktcJr-CYMWYPwUma?dl=0)
-   * Characterizing surface breaking crack using ultrasound data and PINNs: [Project Files](https://www.dropbox.com/sh/rykynd704ulgng8/AABOHqZDwrILL7HvNhaC6mITa?dl=0)
 
 -->
