@@ -148,7 +148,7 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
    * Characterizing surface breaking crack using ultrasound data and PINNs: [Project Files](https://www.dropbox.com/scl/fo/477e4hels0pqxmktzkpsh/ADklQ7I-vqb3SY37Pt9J6XM?rlkey=wsfsr3gtp13t4tsnsrkvgkgk9&dl=0)
 
 8. **Fractional Burgers Equation**
-   * Fractional Nonlinear Burgers Equation and the Fractional Cole–Hopf Transform: [Project Files](https://www.dropbox.com/scl/fo/moy1x7004ivq58ytbxtc6/AKUmHX4veGiY5u0bARlaYRs?rlkey=r4gb1frsmpry9f2y8m47vwwad&dl=0)
+   * Fractional Nonlinear Burgers Equation and the Fractional Cole–Hopf Transform: [Project Files](https://www.dropbox.com/scl/fi/9bwamsjibziuo9ye9xjh7/Project_Description.pdf?rlkey=7hsy2fjgvh1uf6ecol9ca4z5m&dl=0)
 
 ## 📊 Project Presentation Template
 
