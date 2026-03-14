@@ -102,9 +102,8 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 [Homework\_4](Homeworks/HW\_04.pdf) Due Date: 03/28/2026, 11:59 PM ET
 
 **Lecture 5: Training and Optimization** [Slides: (March 2, 2026)](https://www.dropbox.com/scl/fi/mb60xg04g1xp0zi6zhzrk/Lecture_05_Training_and_Optimization_GK.pptx?rlkey=9mgt3746b2cjk6evkc9eao19o&st=7vdm6nm8&dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/Python_Codes/optimizer_00.ipynb)  
-<!--
-[Homework\_L5](Homeworks/HW\_L5.pdf) [STARTING\_CODE](Homeworks/HW\_5\_CODE)  Due Date: 4/07/2025, 11:59 PM ET
--->
+[Homework\_L5](Homeworks/HW\_05.pdf) Due Date: 4/11/2026, 11:59 PM ET
+
 
 **Lecture 6: Neural Network Architectures** [Slides: (March 9, 2026)](https://www.dropbox.com/scl/fi/nx6j0q1smrsugv3eieg30/Lecture_06_NN_Architectures.pptx?rlkey=n5bg2ls43xsrtuxt2jlu6tlyq&st=uc8a95i2&dl=0) [Jupyter\_Notebook](Lecture_6_Notebook/Python_CODES/nn_architectures.ipynb)  
 <!--
