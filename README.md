@@ -109,6 +109,23 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 <!--
 [Homework\_L6](Homeworks/HW\_L6.pdf) Due Date: 4/28/2025, 11:59 PM ET
 -->
+
+## Module II: Neural Differential Equations
+<!--
+**Lecture 7a: Discovering Differential Equations** [Slides: (March 17, 2024)](https://www.dropbox.com/scl/fi/p2zzsg7okayw00t8qmwqc/Lecture-7a-Dynamical-systems.pptx?rlkey=q0jns6kze63zrl32srrkiwd9q&dl=0) [Jupyter\_Notebook](Lecture_7a_Notebook/dynSys.ipynb)  
+
+
+**Lecture 7b: Distillation of Neural Networks** [Slides: (March 31, 2025)](https://www.dropbox.com/scl/fi/fvtw25vvbm2b2zczejz23/Lecture-7b-Distillation-of-Neural_Networks.pptx?rlkey=s9zjfjre8y5qyx8zvlwd8fs3r&st=7uwbzoto&dl=0) [Jupyter\_Notebook](Lecture_7b_Notebook/pysr.ipynb)  
+-->
+
+**Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I** [Slides: (March 16, 2026)](https://www.dropbox.com/scl/fi/0596ep5z4zk67nkch3uxf/Lecture-8-pinns-I.pptx?rlkey=lo7xh0ass7wf0wd9acn5jny73&st=xhxsomsw&dl=0)[Jupyter\_Notebook](Lecture_8_Notebook/Python_Codes)[MATLAB\_Codes](Lecture_8_Notebook/MATLAB_Codes)  
+
+
+
+
+
+
+
 # Term Projects
 
 1. **Biomedicine**
@@ -156,24 +173,6 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 
 
 <!--
-## Module I: Basics 
-
-**Lecture 2 : A primer on Python, NumPy, SciPy, jupyter notebooks and MATLAB** [Slides: (Feb 3, 2025)](https://www.dropbox.com/scl/fi/xafih1gn97ggfdao1nt6c/Lecture_02_Primer_Python_Final.pptx?rlkey=ms1j3gkiu14vmx8re6zzckvq0&st=8mtthpiz&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070_S2025/blob/main/Lecture_2_Notebook/Python_Codes/python_primer.ipynb) [MATLAB_Codes](https://github.com/raj-brown/APMA2070_S2025/blob/main/Lecture_2_Notebook/MATLAB_Codes/poisson_pde_fem.m)  
-[Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/24/2025, 11:59 PM ET
-
-
-**Lecture 3: Deep Learning Networks** [Slides: (Feb 3, Feb 10, 2025)](https://www.dropbox.com/scl/fi/3bph2sv53jrnbzi95ebh8/Lecture_03_Deep_Neural_Networks.pptx?rlkey=d93sa6ed4guc15etku2pjirfb&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070_S2025/blob/main/Lecture_3_Notebook/Python_Code/lec_03.ipynb) [MATLAB_Codes](https://github.com/raj-brown/APMA2070_S2025/blob/main/Lecture_3_Notebook/MATLAB_CODES/driver.m)
-[Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/10/2025, 11:59 PM ET
-
-**Lecture 4: A primer on TensorFlow, PyTorch, JAX and MATLAB** [Slides: (Feb 24, 2025)](https://www.dropbox.com/scl/fi/wq22gbfblu10e9kfgyxm2/Lecture_04_Primer_PyT_TF_JAX.pptx?rlkey=l4egneb7gw82m5x76378jhax3&st=edoxqb9o&dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/Python_Codes/1-pytorch.ipynb) [MATLAB_Codes](Lecture_4_Notebook/MATLAB_Codes/matlabDLbasic.m)  
-[Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 03/24/2025, 11:59 PM ET
-
-
-
-**Lecture 6: Neural Network Architectures** [Slides: (March 10, 2024)](https://www.dropbox.com/scl/fi/ysrirwvzphpxj2wn101sh/Lecture_06_NN_Architectures.pptx?rlkey=qebql65ntpk3iw08qex7so4wj&st=6hgskcjx&dl=0) [Jupyter\_Notebook](Lecture_6_Notebook/nn_architectures.ipynb)  
-[Homework\_L6](Homeworks/HW\_L6.pdf) Due Date: 4/28/2025, 11:59 PM ET
-
-
 
 ## Module II: Neural Differential Equations
 
