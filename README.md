@@ -118,8 +118,9 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 **Lecture 7b: Distillation of Neural Networks** [Slides: (March 31, 2025)](https://www.dropbox.com/scl/fi/fvtw25vvbm2b2zczejz23/Lecture-7b-Distillation-of-Neural_Networks.pptx?rlkey=s9zjfjre8y5qyx8zvlwd8fs3r&st=7uwbzoto&dl=0) [Jupyter\_Notebook](Lecture_7b_Notebook/pysr.ipynb)  
 -->
 
-**Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I** [Slides: (March 16, 2026)](https://www.dropbox.com/scl/fi/0596ep5z4zk67nkch3uxf/Lecture-8-pinns-I.pptx?rlkey=lo7xh0ass7wf0wd9acn5jny73&st=xhxsomsw&dl=0)[Jupyter\_Notebook](Lecture_8_Notebook/Python_Codes)[MATLAB\_Codes](Lecture_8_Notebook/MATLAB_Codes)  
+**Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I** [Slides: (March 16, 2026)](https://www.dropbox.com/scl/fi/l74m7xvks0d1335tv3y8g/Lecture-8-pinns-I.pptx?rlkey=qxyokehaoi6gmespwwtcr9o1q&st=zk6gogzt&dl=0) [Jupyter\_Notebook](Lecture_8_Notebook/Python_Codes)[MATLAB\_Codes](Lecture_8_Notebook/MATLAB_Codes)  
 
+**Lecture 9: Physics-Informed Neural Networks (PINNs)- Part II** [Slides: (March 16, 2026)](https://www.dropbox.com/scl/fi/hshp6nir0pfiwafuaxhsn/Lecture-9-pinns-II.pptx?rlkey=682dmje8q2lxfk8tne2ou9ato&st=dgs663yk&dl=0) 
 
 
 
@@ -185,7 +186,6 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 **Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I** [Slides: (March 31, April 7, 2025)](https://www.dropbox.com/scl/fi/0596ep5z4zk67nkch3uxf/Lecture-8-pinns-I.pptx?rlkey=lo7xh0ass7wf0wd9acn5jny73&st=xhxsomsw&dl=0)[Jupyter\_Notebook](Lecture_8_Notebook/Python_Codes)[MATLAB\_Codes](Lecture_8_Notebook/MATLAB_Codes)  
 
 
-**Lecture 9: Physics-Informed Neural Networks (PINNs)- Part II** [Slides: (April 7, 2025)](https://www.dropbox.com/scl/fi/wq128pvaytxts6s7ycg4c/Lecture-9-pinns-II.pptx?rlkey=0v8s1sjh0585udyggamvwtvxu&dl=0) 
 
 
 ## Module III: Neural Operators
