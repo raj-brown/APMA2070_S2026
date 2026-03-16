@@ -93,16 +93,16 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 [Homework\_1](Homeworks/HW_01.pdf) Due Date: 2/17/2026, 11:59 PM ET
 
 **Lecture 2 : A primer on Python, NumPy, SciPy, jupyter notebooks and MATLAB** [Slides: (Jan 30, 2026)](https://www.dropbox.com/scl/fi/wn5rd4p3flcjqc5hj0kan/Lecture_02_Primer_Python_MATLAB.pptx?rlkey=96pa3d09gfu5i4q7ytgvusrhy&st=utbsgjtq&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_2_Notebook/Python_Codes/python_primer.ipynb) [MATLAB_Codes](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_2_Notebook/MATLAB_Codes/poisson_pde_fem.m)  
-[Homework\_2](Homeworks/HW\_02.pdf) Due Date: 02/28/2026, 11:59 PM ET
+[Homework\_2](Homeworks/HW\_02.pdf) Due Date: 3/5/2026, 11:59 PM ET
 
 **Lecture 3: Deep Learning Networks** [Slides: (Feb 2, Feb 9, 2026)](https://www.dropbox.com/scl/fi/7dhmjgfuku3bd0n01kcc9/Lecture_03_Deep_Neural_Networks.pptx?rlkey=8409wfqzioi3czr6hm9td75sz&st=is9k9dgt&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_3_Notebook/Python_Code/lec_03.ipynb) [MATLAB_Codes](https://github.com/raj-brown/APMA2070_S2026/blob/main/Lecture_3_Notebook/MATLAB_CODES/driver.m)
-[Homework\_3](Homeworks/HW\_03.pdf) Due Date: 03/14/2026, 11:59 PM ET
+[Homework\_3](Homeworks/HW\_03.pdf) Due Date: 3/21/2026, 11:59 PM ET
 
 **Lecture 4: A primer on TensorFlow, PyTorch, JAX and MATLAB** [Slides: (Feb 9, Feb 16, 2026)](https://www.dropbox.com/scl/fi/fqqt6s40p5c4l0nq7b0vg/Lecture_04_Primer_PyT_TF_JAX.pptx?rlkey=nh73obwekkxlio6fjbvu93gth&st=0taynhm7&dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/Python_Codes/1-pytorch.ipynb) [MATLAB_Codes](Lecture_4_Notebook/MATLAB_Codes/matlabDLbasic.m)  
-[Homework\_4](Homeworks/HW\_04.pdf) Due Date: 03/28/2026, 11:59 PM ET
+[Homework\_4](Homeworks/HW\_04.pdf) Due Date: 4/4/2026, 11:59 PM ET
 
 **Lecture 5: Training and Optimization** [Slides: (March 2, 2026)](https://www.dropbox.com/scl/fi/mb60xg04g1xp0zi6zhzrk/Lecture_05_Training_and_Optimization_GK.pptx?rlkey=9mgt3746b2cjk6evkc9eao19o&st=7vdm6nm8&dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/Python_Codes/optimizer_00.ipynb)  
-[Homework\_L5](Homeworks/HW\_05.pdf) Due Date: 4/11/2026, 11:59 PM ET
+[Homework\_L5](Homeworks/HW\_05.pdf) Due Date: 4/18/2026, 11:59 PM ET
 
 
 **Lecture 6: Neural Network Architectures** [Slides: (March 9, 2026)](https://www.dropbox.com/scl/fi/nx6j0q1smrsugv3eieg30/Lecture_06_NN_Architectures.pptx?rlkey=n5bg2ls43xsrtuxt2jlu6tlyq&st=uc8a95i2&dl=0) [Jupyter\_Notebook](Lecture_6_Notebook/Python_CODES/nn_architectures.ipynb)  
