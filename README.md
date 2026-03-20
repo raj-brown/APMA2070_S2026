@@ -106,9 +106,8 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 
 
 **Lecture 6: Neural Network Architectures** [Slides: (March 9, 2026)](https://www.dropbox.com/scl/fi/nx6j0q1smrsugv3eieg30/Lecture_06_NN_Architectures.pptx?rlkey=n5bg2ls43xsrtuxt2jlu6tlyq&st=uc8a95i2&dl=0) [Jupyter\_Notebook](Lecture_6_Notebook/Python_CODES/nn_architectures.ipynb)  
-<!--
-[Homework\_L6](Homeworks/HW\_L6.pdf) Due Date: 4/28/2025, 11:59 PM ET
--->
+[Homework\_L6](Homeworks/HW\_L6.pdf) Due Date: 4/30/2026, 11:59 PM ET
+
 
 ## Module II: Neural Differential Equations
 <!--
