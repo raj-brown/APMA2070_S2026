@@ -111,10 +111,10 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 
 ## Module II: Neural Differential Equations
 
-**Lecture 7a: Discovering Differential Equations** [Slides: (March 30, 2026)](https://www.dropbox.com/scl/fi/1q5v2u9xjk67esvew1ign/Lecture-7a-Dynamical-systems.pptx?rlkey=2xffg2nl3geclutc1sg5glq6a&st=h40ld568&dl=0) [Jupyter\_Notebook](Lecture_7a_Notebook/Python/dynSys.ipynb)  
+**Lecture 7a: Discovering Differential Equations** [Slides: (March 30, 2026)](https://www.dropbox.com/scl/fi/1q5v2u9xjk67esvew1ign/Lecture-7a-Dynamical-systems.pptx?rlkey=2xffg2nl3geclutc1sg5glq6a&st=h40ld568&dl=0) [Jupyter\_Notebook](Lecture_7a_Notebook/Python_Codes/dynSys.ipynb)  
 
 
-**Lecture 7b: Distillation of Neural Networks** [Slides: (March 30, 2026)](https://www.dropbox.com/scl/fi/qpgepd3t2yyzka7ffp8ed/Lecture-7b-Distillation-of-Neural_Networks.pptx?rlkey=aharpgje4yowjbxd3iqijddka&st=3l4lhmtg&dl=0) [Jupyter\_Notebook](Lecture_7b_Notebook/Python/pysr.ipynb)  
+**Lecture 7b: Distillation of Neural Networks** [Slides: (March 30, 2026)](https://www.dropbox.com/scl/fi/qpgepd3t2yyzka7ffp8ed/Lecture-7b-Distillation-of-Neural_Networks.pptx?rlkey=aharpgje4yowjbxd3iqijddka&st=3l4lhmtg&dl=0) [Jupyter\_Notebook](Lecture_7b_Notebook/Python_Codes/pysr.ipynb)  
 
 
 **Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I** [Slides: (March 16, 2026)](https://www.dropbox.com/scl/fi/l74m7xvks0d1335tv3y8g/Lecture-8-pinns-I.pptx?rlkey=qxyokehaoi6gmespwwtcr9o1q&st=zk6gogzt&dl=0) [Jupyter\_Notebook](Lecture_8_Notebook/Python_Codes)[MATLAB\_Codes](Lecture_8_Notebook/MATLAB_Codes)  
