@@ -124,7 +124,7 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 
 
 ## Module III: Neural Operators
-**Lecture 10: Deep Operator Network (DeepONet)** [Slides: (April 14, April 21, 2025)](https://www.dropbox.com/scl/fi/g8fphm6apld1cpehajp1j/Lecture_10_DeepONet_GK.pptx?rlkey=t5gqyqcjfwyiqnpko9ln4fkjr&st=4bstb1a8&dl=0) [Jupyter\_Notebook](Lecture_10_Notebook/Python/operators.ipynb) [DATA\_FOR\_FNO](https://www.dropbox.com/s/klxu19gn9oxjdwf/burgers\_data\_R10.mat?dl=0)  
+**Lecture 10: Deep Operator Network (DeepONet)** [Slides: (April 6, 2026)](https://www.dropbox.com/scl/fi/g8fphm6apld1cpehajp1j/Lecture_10_DeepONet_GK.pptx?rlkey=t5gqyqcjfwyiqnpko9ln4fkjr&st=4bstb1a8&dl=0) [Jupyter\_Notebook](Lecture_10_Notebook/Python/operators.ipynb) [DATA\_FOR\_FNO](https://www.dropbox.com/s/klxu19gn9oxjdwf/burgers\_data\_R10.mat?dl=0)  
 
 
 
