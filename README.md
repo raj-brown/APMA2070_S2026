@@ -123,6 +123,11 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 
 
 
+## Module III: Neural Operators
+**Lecture 10: Deep Operator Network (DeepONet)** [Slides: (April 14, April 21, 2025)](https://www.dropbox.com/scl/fi/g8fphm6apld1cpehajp1j/Lecture_10_DeepONet_GK.pptx?rlkey=t5gqyqcjfwyiqnpko9ln4fkjr&st=4bstb1a8&dl=0) [Jupyter\_Notebook](Lecture_10_Notebook/Python/operators.ipynb) [DATA\_FOR\_FNO](https://www.dropbox.com/s/klxu19gn9oxjdwf/burgers\_data\_R10.mat?dl=0)  
+
+
+
 
 
 
@@ -174,21 +179,6 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 
 <!--
 
-## Module II: Neural Differential Equations
-
-**Lecture 7a: Discovering Differential Equations** [Slides: (March 17, 2024)](https://www.dropbox.com/scl/fi/p2zzsg7okayw00t8qmwqc/Lecture-7a-Dynamical-systems.pptx?rlkey=q0jns6kze63zrl32srrkiwd9q&dl=0) [Jupyter\_Notebook](Lecture_7a_Notebook/dynSys.ipynb)  
-
-
-**Lecture 7b: Distillation of Neural Networks** [Slides: (March 31, 2025)](https://www.dropbox.com/scl/fi/fvtw25vvbm2b2zczejz23/Lecture-7b-Distillation-of-Neural_Networks.pptx?rlkey=s9zjfjre8y5qyx8zvlwd8fs3r&st=7uwbzoto&dl=0) [Jupyter\_Notebook](Lecture_7b_Notebook/pysr.ipynb)  
-
-
-**Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I** [Slides: (March 31, April 7, 2025)](https://www.dropbox.com/scl/fi/0596ep5z4zk67nkch3uxf/Lecture-8-pinns-I.pptx?rlkey=lo7xh0ass7wf0wd9acn5jny73&st=xhxsomsw&dl=0)[Jupyter\_Notebook](Lecture_8_Notebook/Python_Codes)[MATLAB\_Codes](Lecture_8_Notebook/MATLAB_Codes)  
-
-
-
-
-## Module III: Neural Operators
-**Lecture 10: Deep Operator Network (DeepONet)** [Slides: (April 14, April 21, 2025)](https://www.dropbox.com/scl/fi/yfinwvwkaorgl3p5stmu9/Lecture_10_DeepONet_GK.pptx?rlkey=nvs1wwz8j53ea8rz61o3927zv&dl=0) [Jupyter\_Notebook](Lecture_10_Notebook/Python/operators.ipynb) [DATA\_FOR\_FNO](https://www.dropbox.com/s/klxu19gn9oxjdwf/burgers\_data\_R10.mat?dl=0)  
 
 
 **Lecture 11: Implementation of PINNs and DeepOnet** [Slides: (April 21, 2025)](https://www.dropbox.com/scl/fi/1o770q3ymfsmp2fl1jfcz/Lecture_11_implementation_PINNS_DeepXDE.pptx?rlkey=f0a0d3emzbpa9kthiz1kzzyvn&st=iym3tcwo&dl=0)[Jupyter\_Notebook](Lecture_11_Notebook/Python/deepXde.ipynb) [DATA\_FOR\_DEEPONET](https://www.dropbox.com/sh/dkmn84nccqcbuts/AAC9gunsRcCzfv4ETrTm56cWa?d
