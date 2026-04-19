@@ -130,8 +130,8 @@ Room 118, Division of Applied Mathematics, 170 Hope St, Providence RI 02906
 
 ## Module IV: SciML Uncertainty Quantification (SciML-UQ)
 
-<!--**Lecture 12: Machine Learning using Multi-Fidelity Data** [Slides: (April 21, April 27, 2025)](https://www.dropbox.com/scl/fi/kvkoqcabyn86079q0n0rv/Lecture_12_Multi-fidelity.pptx?rlkey=ibd7rd0ru7mjoldepe9urotlg&st=bldxidfv&dl=0) [Jupyter\_Notebook](Lecture_12_Notebook/multi_fidelity_notbook.ipynb)
--->
+**Lecture 12: Machine Learning using Multi-Fidelity Data** [Slides: (April 21, April 27, 2025)](https://www.dropbox.com/scl/fi/kvkoqcabyn86079q0n0rv/Lecture_12_Multi-fidelity.pptx?rlkey=ibd7rd0ru7mjoldepe9urotlg&st=bldxidfv&dl=0) [Jupyter\_Notebook](Lecture_12_Notebook/multi_fidelity_notbook.ipynb)
+
 
 **Lecture 13: Uncertainty Quantification(UQ) in Scientific Machine Learning** [Slides: (April 13, 2026)](https://www.dropbox.com/scl/fi/0jyurg8045jia2z171flz/Lecture_13_UQ_short.pptx?rlkey=34ghpynqorfdjpf07vyyz573o&st=m01uligd&dl=0) [Jupyter\_Notebook](Lecture_13_Notebook/neural_uq.ipynb) [Slides: Neural\_UQ](https://www.dropbox.com/scl/fi/88m1xjsld88tq5j3im2pg/Lecture_13_ADD_ON_NeuralUQ.pptx?rlkey=h57a54vw5ve6yin8xh5q104xz&st=198xgbqt&dl=0)
 
